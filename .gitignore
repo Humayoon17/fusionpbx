@@ -12,3 +12,7 @@ secure/*.sqlite
 *.php~
 
 app/yealink/resources/firmware/*
+app/device_logs/
+app/language_model/
+app/speech/
+app/transcribe/
